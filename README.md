@@ -40,5 +40,3 @@
 ![](https://post-phinf.pstatic.net/MjAxOTA4MTFfMTgg/MDAxNTY1NTI2NTk3Nzk3.gi73k3PDmDrsOHNghD4mIy9MWScabnI-0qorZ_bog7Ug.RoylIHTrDj4uK_e_17T3X4Hw6PTbdooWkZ_DfF-Qkzog.JPEG/2345.jpg?type=w1200)
 
 ---
-
-
