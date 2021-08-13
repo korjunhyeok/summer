@@ -1,5 +1,5 @@
 
-# 알기쉬운 항공기의 숨은 과학
+# &#500;알기쉬운 항공기의 숨은 과학
 ##안녕하세요 항공알림이 aircraft입니다. 
 ###언제든지 물어보세요!.
 항공(airline)
@@ -40,6 +40,5 @@
 ![](https://post-phinf.pstatic.net/MjAxOTA4MTFfMTgg/MDAxNTY1NTI2NTk3Nzk3.gi73k3PDmDrsOHNghD4mIy9MWScabnI-0qorZ_bog7Ug.RoylIHTrDj4uK_e_17T3X4Hw6PTbdooWkZ_DfF-Qkzog.JPEG/2345.jpg?type=w1200)
 
 ---
-![](https://eyereum.com/image/2015/10/22/1445497417gXt5WwZ3.jpg)
 
 
