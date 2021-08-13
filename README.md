@@ -38,6 +38,7 @@
 
 ---
 # 비행기의 기본 작용 역학
+##저항력 즉 항력과 양력과의 관계에서 양력 비가 높음에 따라 항공기의 성능이 결정된다
 
 ![](https://post-phinf.pstatic.net/MjAxOTA4MTFfMTgg/MDAxNTY1NTI2NTk3Nzk3.gi73k3PDmDrsOHNghD4mIy9MWScabnI-0qorZ_bog7Ug.RoylIHTrDj4uK_e_17T3X4Hw6PTbdooWkZ_DfF-Qkzog.JPEG/2345.jpg?type=w1200)
 
